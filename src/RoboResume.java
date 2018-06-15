@@ -172,7 +172,7 @@ public class RoboResume {
         userInput.setUserSkill(skill);
         userInput.setUserLevel(level);
 
-
+        resumes.add(userInput);
 
         System.out.println("\n");
         System.out.println("\n");
